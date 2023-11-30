@@ -6,5 +6,3 @@ I forecasted stock prices using the Monte Carlo simulation. I used this data to 
 
 ![image](https://github.com/beingamanforever/Monte-Carlo-Simulation/assets/121532863/efe41626-39c0-4113-9905-2c40e556040c)
 
-![image](https://github.com/beingamanforever/Monte-Carlo-Simulation/assets/121532863/b758b938-e00a-4155-bb34-8428b9799d6f)
-
