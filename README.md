@@ -1,5 +1,5 @@
 # Monte-Carlo-Simulation
-Usage of Monte Carlo Simulation to Optimise Portfolio to maximise an investor's max returns off a given investment amount vested among various assets.
+The objective of this project is to develop a Monte Carlo simulation model for portfolio optimization to maximise an investor's max returns off a given investment amount vested among various assets. It required to construct and analyze portfolios composed of various asset classes (e.g., stocks, bonds, and alternative investments) to maximize expected returns while managing risk.
 
 # About the project 
 I forecasted stock prices using the Monte Carlo simulation. I used this data to predict the weights associated with each associated for getting maximal returns at minimal risk. Moreover I generated the optimum portfolio using various risk-return measures like sharpe ratio, and discussed various normality quantification norms like Q-Q plot etc. I also analysed the relationship between various assets by correlation and covariance matrix that would help the investor in finding the optimal portfolio based on a certain risk-free rate.
@@ -26,7 +26,11 @@ Medium Documentation - [Link](https://medium.com/@beingamanforever/portfolio-opt
 
 
 # References used
+> [!IMPORTANT]
+> Below are the references I used to learn and refer
 1. Investopedia
 2. QuantPy youtube channel
 3. Blogs on Medium
-4. MIT lectures on Monte Carlo Simulation [here](https://www.youtube.com/watch?v=OgO1gpXSUzU)
+4. Qiskit documentation on portfolio optimisation
+5. Portfolio Optimization using Qiskit and Eikon Data API [Link](https://medium.com/@beingamanforever/quantum-computing-for-portfolio-optimization-58c8c93cd420)
+7. MIT lectures on Monte Carlo Simulation [here](https://www.youtube.com/watch?v=OgO1gpXSUzU)
